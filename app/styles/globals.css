@@ -88,7 +88,7 @@ body {
 body {
   color: rgb(var(--foreground-rgb));
   /*background-color: transparent ;*/
-  background-image: url('/elixir2.png');
+  background-image: url('/elixir2.jpg');
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: 400px auto; 
