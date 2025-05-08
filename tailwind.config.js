@@ -31,7 +31,7 @@ module.exports = {
           500: '#E1EFFE',
         },
         beige: {
-          200: 'F5F5DC',
+          200: '#F5F5DC',
         },
         green: {
           50: '#F3FAF7',
